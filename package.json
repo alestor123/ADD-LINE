@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "description": "This is a simple code for append a new line in a file from cli",
   "main": "App.js",
+  "bin": {
+    "add-line":"cli.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
