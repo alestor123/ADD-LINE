@@ -1,0 +1,19 @@
+{
+  "name": "add-line",
+  "version": "1.0.0",
+  "description": "This is a simple code for append a new line in a file from cli",
+  "main": "App.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alestor123/ADD-LINE.git"
+  },
+  "author": "Alestor Aldous",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alestor123/ADD-LINE/issues"
+  },
+  "homepage": "https://github.com/alestor123/ADD-LINE#readme"
+}
